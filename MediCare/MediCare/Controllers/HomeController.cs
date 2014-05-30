@@ -12,6 +12,12 @@ namespace MediCare.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 
+
+
+
+
+
+            int x = 0;
             return View();
         }
 
